@@ -1,0 +1,19 @@
+{
+  "techs_1": [
+    { "name": "JavaScript", "rate": "50" },
+    { "name": "Vue.js", "rate": "50" },
+    { "name": "ReactJS", "rate": "60" },
+    { "name": "HTML5", "rate": "50" },
+    { "name": "CSS3", "rate": "0" },
+    { "name": "Laravel", "rate": "80" },
+    { "name": "Responsive Design", "rate": "0" },
+    { "name": "User Experience (UX) Design", "rate": "50" },
+    { "name": "Flutter", "rate": "90" }
+  ],
+  "techs_2": [
+    { "name": "FlutLab", "rate": "90" },
+    { "name": "Android Studio", "rate": "0" },
+    { "name": "Version Control (Git)", "rate": "0" },
+    { "name": "Continuous Integration", "rate": "0" }
+  ]
+}

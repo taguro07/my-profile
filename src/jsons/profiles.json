@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "30 July 2003" },
+    {
+      "website": "<a target='blank' href='http://nestle-resume.s3-website-us-east-1.amazonaws.com'>http://nestle-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 905-062-6801" },
+    { "address": "Pinayagan Norte, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>nestleannlismoras@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Pinayagan Norte, Tubigon, Bohol, Philippines",
+    "+63 905-062-6801",
+    "<a href='mailto:someone@example.com'>nestleannlismoras@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2021 - 2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015 - 2021",
+      "school": "Holy Cross Academy",
+      "address": "Pooc, Oriental, Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": " 2011 - 2015",
+      "school": "Pinayagan Norte Elementary School",
+      "address": "Pinayagan Norte, Tubigon, Bohol"
+    }
+  ]
+}
